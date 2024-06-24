@@ -78,6 +78,29 @@
       "customExtractPrompt": "",
       "defaultSystemChatPrompt": "",
       "defaultConfig": {}
+    },
+    {
+      "model": "gpt-4o",
+      "name": "gpt-4o",
+      "avatar": "/imgs/model/openai.svg",
+      "maxContext": 126000,
+      "maxResponse": 126000,
+      "quoteMaxToken": 4000,
+      "maxTemperature": 1.2,
+      "charsPointsPrice": 0,
+      "censor": false,
+      "vision": true,
+      "datasetProcess": false,
+      "usedInClassify": true,
+      "usedInExtractFields": true,
+      "usedInToolCall": true,
+      "usedInQueryExtension": true,
+      "toolChoice": true,
+      "functionCall": false,
+      "customCQPrompt": "",
+      "customExtractPrompt": "",
+      "defaultSystemChatPrompt": "",
+      "defaultConfig": {}
     }
   ],
   "vectorModels": [
